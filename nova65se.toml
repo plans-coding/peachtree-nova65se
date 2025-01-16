@@ -1,0 +1,15 @@
+[[protocols]]
+name = 'nova65se'
+protocol = 'nec'
+variant = 'nec'
+[protocols.scancodes]
+0x104f = 'KEY_POWER'
+0x104a = 'KEY_USB'
+0x1052 = 'KEY_COAX'
+0x105e = 'KEY_OPT1'
+0x104e = 'KEY_OPT2'
+0x104d = 'KEY_AUX'
+0x105a = 'KEY_TUBE'
+0x100f = 'KEY_VOLUMEDOWN'
+0x101f = 'KEY_VOLUMEUP'
+0x105f = 'KEY_MUTE'
